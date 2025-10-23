@@ -11,4 +11,4 @@ No GUI Just one command.
 git clone https://github.com/iboadam/quck.git
 chmod +x quck/hog.py
 sudo ln -s /home/YourName/Desktop/hog.py /usr/local/bin/hog
-sudo ./quck/hog.py --start
+sudo ./hog.py --start
