@@ -9,6 +9,6 @@ No GUI Just one command.
 
 ```bash
 chmod +x /home/deceased/Desktop/hog.py
-sudo ln -s /home/deceased/Desktop/hog.py /usr/local/bin/hog
+sudo ln -s /home/yourname/Desktop/hog.py /usr/local/bin/hog
 sudo hog --start
 
