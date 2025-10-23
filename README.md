@@ -1,11 +1,14 @@
 # hog
-Terminal incognito mode. Cleans traces while you operate. One command. No questions asked.
+Terminal incognito mode. Cleans traces while you operate. one command. No questions asked.
 # .
 
 Minimalist CLI tool that wipes traces while the terminal is in use.  
-No GUI. No menu. Just one command.
+No GUI Just one command.
 
-## Usage
+## Quick Start
 
 ```bash
-sudo hog --start
+git clone https://github.com/iboadam/quck.git
+chmod +x quck/hog.py
+sudo ln -s /home/YourName/Desktop/hog.py /usr/local/bin/hog
+sudo ./quck/hog.py --start
