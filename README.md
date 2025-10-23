@@ -9,6 +9,6 @@ No GUI Just one command.
 
 ```bash
 git clone https://github.com/iboadam/hog.git
-chmod +x hog.py
-sudo ln -s /home/YourName/Desktop/hog.py /usr/local/bin/hog
-sudo ./hog.py --start
+chmod +x hog/hog.py
+sudo ln -s $PWD/hog/hog.py /usr/local/bin/hog
+sudo hog --start
