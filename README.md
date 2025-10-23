@@ -8,7 +8,8 @@ No GUI Just one command.
 ## Quick Start
 
 ```bash
-chmod +x /home/deceased/Desktop/hog.py
-sudo ln -s /home/yourname/Desktop/hog.py /usr/local/bin/hog
-sudo hog --start
+git clone https://github.com/iboadam/quck.git
+chmod +x quck/hog.py
+sudo ln -s /home/YourName/Desktop/hog.py /usr/local/bin/hog
+sudo ./quck/hog.py --start
 
